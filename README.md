@@ -13,6 +13,25 @@
 - 📦 Easy to extend with your own AI/logic modules
 - 🎨 Planned support for mind map visualization
 
+## 🔧 Requirements
+
+  - Python 3.10+
+  - Ollama installed and running locally
+  - Mistral model pulled via Ollama
+
+### 📥 Setting up Ollama + Mistral
+
+Install Ollama:
+  - Follow the official install instructions: https://ollama.com/download
+
+Pull the Mistral model:
+  - `ollama pull mistral`
+
+Verify it's running:
+  - `ollama run mistral`
+    
+You should see a prompt indicating that Mistral is active and listening for input.
+
 ## 🛠️ Installation
 
 1. Clone the repo:
