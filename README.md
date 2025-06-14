@@ -52,3 +52,9 @@ Run the main script:
   - `python main.py`
 
 You’ll be prompted to enter a goal, thought, or abstract idea. The script will process the input, apply logic to expand it into a tree-like structure, and then display the result in a textual format.
+
+### Usage
+
+<p align="center">
+  <img src="Screenshot 2025-06-14 130324.png" width="500"/>
+</p>
