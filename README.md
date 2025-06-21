@@ -58,3 +58,6 @@ You’ll be prompted to enter a goal, thought, or abstract idea. The script will
 <p align="center">
   <img src="Screenshot 2025-06-14 130324.png" width="500"/>
 </p>
+
+
+© 2025 Gunjan Bhangale. All Rights Reserved. 
